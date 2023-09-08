@@ -1,0 +1,156 @@
+
+{
+    "translation":{
+
+        
+
+    "HeaderCompenent":{
+        "Inicio" : "Home",
+
+        "PT-BR" : "EN-US",
+
+        "Gráfico": "Graphics",
+
+        "Perguntas": "Faq" ,
+
+        "Contatos": "Contact us",
+
+        "Time" : "Team",
+
+        "Comprar": "Buy Now"
+
+        },
+
+    "BannerArea":{
+
+        "PROPHECY A Evolução Da Alta Frequência" : "PROPHECY: The Evolution of High Frequency",
+
+        "ICO Começará" : "ICO Start"
+
+        
+        },
+        
+
+    
+    "GraphArea" :{
+        "Sobre Gráficos" : "About Graphics",
+
+        "Gráficos em Tempo Real para Forex" : "Real-Time Graphics for Forex",
+
+        "Os gráficos em tempo real de Forem" : "Real-time Forex graphics offer traders immediate insights, enabling informed decisions and improved performance",
+
+        "Os gráficos em tempo real de Forex oferecem" : "Real-time Forex graphics offer immediate market insights for quick decisions",
+
+        "Esses gráficos permitem respostas precisas" : "These graphics allow precise responses to market changes, improving strategies",
+
+        "Dados em tempo real aprimoram o desempenho" : "Real-time data enhances performance and risk management",
+
+        "Os traders podem capitalizar" : "Traders can swiftly capitalize on opportunities for profit"
+    },
+
+
+    "ChooseArea":{
+        "Por que nos escolher" : "why Choose us",
+
+        "Por que escolher o nosso serviço" : "Why you choose our Prophecy",
+
+        "Pagamento seguro para você!" : "Secure Payment for you",
+
+        "Nossa plataforma garante pagamentos" : "Our platform ensures secure payments, providing peace of mind for your financial transactions.",
+
+        "Transferência de Forex em tempo real" : "Real-Time Forex transfer",
+
+        "Acesse dados de Forem em tempo real" : "Access real-time Forex data, enabling informed decisions and timely trading.",
+
+        "Integração com MetaTrader" : "MetaTrader Integration",
+
+        "A perfeita integração com o MetaTrader" : "Seamless integration with MetaTrader streamlines your trading experience.",
+
+        "Segurança de transações" : "Transaction Security",
+
+        "Damos prioridade à segurança" : "We prioritize transaction security, safeguarding your financial activities."
+    },
+
+    "ContactArea":{
+        "Entre em Contato" : "Get in Touch", 
+
+        "Nome" : "Name", 
+
+        "Menssagem" : "Mesagem",
+
+        "Enviar Mensagem" : "Send Massage",
+
+        "Email Aqui" : "Email Address",
+
+        "Vamos Conversar" : "Lets Get in touch with us"
+    },
+
+    "NewsArea":{
+        "O que há de novo sobre nós" : "what’s new about us",
+
+        "A Plataforma de Negociação" : "The Revolutionary Trading Platform That Surpasses Conventional HFTs",
+
+        "HTS revoluciona a negociação" :
+        "HTS revolutionizes financial trading with advanced technologies, artificial intelligence and Python language. Features such as Smart Trailing Stop and virtual validations optimize the experience and performance of investors, surpassing conventional HFTs and being accepted by several brokers that reject traditional HFTs"
+    },
+
+    "ForexArea":{
+        "O que há de novo no Forex" : "what’s new about forex",
+
+        "O que é Forex e como funciona" : "What is Forex and how does it work", 
+
+        "Forex é a abreviação" : "Forex is short for foreign exchange, which is a decentralized global market where currencies are traded. The forex market operates 24 hours a day, five days a week, and moves trillions of dollars per day. It is the largest and most liquid of all financial markets."
+
+    },
+
+    "FaqArea":{
+
+        "Perguntas Frequentes" : "Frequently asked questions", 
+
+        "Preciso instalar algum software?" : "Do I need to install any software?",
+
+        "Na Prophecy, nos orgulhamos" : "At Prophecy, we take pride in providing a hassle-free software experience. We want to inform you that you don't need to download our application to use our software. Our web platform ensures instant access without the need for installations or updates. It works seamlessly on all desktop devices, offers enhanced security, and saves money on installation and maintenance costs. To get started, simply visit our website and log in. It's that simple! Enjoy the convenience of our software without the need for any downloads. If you have any questions or need assistance, our support team is here to help.",
+
+        "É necessário instalar o MetaTrader 5?" : " MetaTrader 5 Installation Required?",
+
+        "Para utilizar os nossos serviços" : "To use our services, it's essential to have MetaTrader 5 installed on your device. This software is crucial for accessing and enjoying all the features and functionalities we offer. Please make sure to have MetaTrader 5 installed before you begin using our services.",
+
+        "É possível começar a investir com qualquer valor?" : "Can You Start Investing with Any Amount?",
+
+        "No cenário financeiro atual" : "In today's financial landscape, it's important to know that you can begin your investment journey with any amount. At Prophecy, we believe in making investing accessible to everyone, regardless of their initial capital. With our platform, there are no minimum investment requirements. Whether you have a large sum or a modest amount to spare, you can start investing and building your financial future. Our user-friendly interface and diverse investment options ensure that you can tailor your investment strategy to match your individual goals and budget. Don't let the misconception that investing requires substantial wealth deter you from taking your first steps toward financial growth. Join us at Prophecy and discover how easy it is to start investing with any amount you're comfortable with. Your financial journey begins here.",
+
+        "Por que trabalhamos com Forex na Prophecy?" : "Why We Work with Forex in Prophecy?",
+
+        "Na Prophecy, a nossa escolha de trabalhar com Forex" : "At Prophecy, our choice to work with Forex is driven by its unique characteristics and opportunities. Forex stands out for its high liquidity, accessibility around the clock, diverse participant base, and potential for traders to manage risk effectively. The Forex market's global reach, technological advancements, and transparency align with our commitment to offering a secure and educational trading environment. We believe that Forex's attributes make it an ideal platform for traders to pursue their financial goals, and we are here to support and guide them on their journey. Join us at Prophecy to explore the world of Forex trading and its possibilities.",
+
+        "Você deseja começar a usar nosso software?" : "Would you like to begin using our software?",
+
+        "Para começar a usar o nosso software" : "o get started with our software, simply register on our website. Creating an account is a quick and easy process, and it's the first step to access the full range of features and functionalities we offer. Don't miss out on the benefits of our software – sign up today and unlock a world of possibilities."
+    },
+
+    "TeamArea" : {
+        "Nosso time" : "Our team",
+
+        "A Liderança" : "The Leadership",
+
+        "Diretor Executivo" : "Chief Executive Officer",
+
+        "Diretor Técnico" : "Chief Technical Officer",
+
+        "Diretor Financeiro" : "Chief Financial Officer",
+
+        "Diretora Jurídica" : "Chief Legal Officer"
+    },
+
+    "FooterComponent":{
+        "Blessed&copy© 2023. todos os Direitos Reservados" : "Blessed© 2023. All Rights Reserved.",
+
+        "Rolar para o topo" : "Scroll to the top",
+
+        "Termos de Serviço" : "Terms of Service",
+
+        "Política de Privacidade" : "Privacy Policy"
+      
+        }
+    }
+}

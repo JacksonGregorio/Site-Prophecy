@@ -1,0 +1,152 @@
+
+{
+    "translation":{
+
+        
+    "HeaderCompenent":{
+        "Inicio" : "Inicio",
+
+        "PT-BR" : "PT-BR",
+
+        "Gráfico": "Gráfico",
+
+        "Perguntas": "Perguntas" ,
+
+        "Contatos": "Contatos",
+
+        "Comprar": "Comprar",
+
+        "Time" : "Time"
+
+    },
+
+    "BannerArea":{
+
+        "PROPHECY A Evolução Da Alta Frequência" : "PROPHECY: A Evolução Da Alta Frequência",
+
+        "ICO Começará" : "ICO Começará"
+
+    },
+
+    "GraphArea" :{
+        "Sobre Gráficos" : "Sobre Gráficos",
+
+        "Gráficos em Tempo Real para Forex" : "Gráficos em Tempo Real para Forex",
+
+        "Os gráficos em tempo real de Forem" : "Os gráficos em tempo real de Forem, oferecem aos traders uma percepção imediata, permitindo decisões com embasamento e garantindo melhor desempenho",
+
+        "Os gráficos em tempo real de Forex oferecem" : "Os gráficos em tempo real de Forex oferecem uma visão abrangente de mercado para a tomada rápida de decisões",
+
+        "Esses gráficos permitem respostas precisas" : "Esses gráficos permitem respostas precisas às mudanças no mercado, melhorando estratégias",
+
+        "Dados em tempo real aprimoram o desempenho" : "Dados em tempo real aprimoram o desempenho e a gestão de riscos",
+
+        "Os traders podem capitalizar" : "Os traders podem capitalizar rapidamente as oportunidades de lucro"
+
+    },
+
+    "ChooseArea":{
+
+        "Por que nos escolher" : "Por que nos escolher",
+
+        "Por que escolher o nosso serviço" : "Por que escolher o nosso serviço",
+
+        "Pagamento seguro para você!" : "Pagamento seguro para você!",
+
+        "Nossa plataforma garante pagamentos" : "Nossa plataforma garante pagamentos seguros, proporcionando tranquilidade para suas transações.",
+
+        "Transferência de Forex em tempo real" : "Transferência de Forex em tempo real",
+
+        "Acesse dados de Forem em tempo real" : "Acesse dados de Forem em tempo real para decisões informadas e negociações oportunas.",
+
+        "Integração com MetaTrader" : "Integração com MetaTrader",
+
+        "A perfeita integração com o MetaTrader" : "A perfeita integração com o MetaTrader simplifica sua experiência de negociação.",
+
+        "Segurança de transações" : "Segurança de transações",
+
+        "Damos prioridade à segurança" : "Damos prioridade à segurança das transações, protegendo suas atividades financeiras."
+    },
+
+
+    "ContactArea":{
+        "Entre em Contato" : "Entre em Contato", 
+
+        "Nome" : "Nome", 
+
+        "Menssagem" : "Menssagem",
+
+        "Enviar Mensagem" : "Enviar Mensagem",
+
+        "Vamos Conversar" : "Vamos Conversar"
+    },
+
+        
+    "NewsArea":{
+        "O que há de novo sobre nós" : "O que há de novo sobre nós",
+
+        "A Plataforma de Negociação" : "A Plataforma de Negociação Revolucionária que Supera HFTs Convencionais",
+
+        "HTS revoluciona a negociação" :
+        "HTS revoluciona a negociação financeira com tecnologias avançadas, inteligência artificial e linguagem Python. Recursos como o Smart Trailing Stop e validações virtuais otimizam a experiência e o desempenho dos investidores, superando HFTs convencionais e sendo aceita por vários corretores que rejeitam HFTs tradicionais."
+    },
+
+    "ForexArea":{
+        "O que há de novo no Forex" : "O que há de novo no Forex",
+
+        "O que é Forex e como funciona" : "O que é Forex e como funciona", 
+
+        "Forex é a abreviação" : "Forex é a abreviação de Foreign Exchange(câmbio estrangeiro), que é um mercado global descentralizado onde as moedas são negociadas. O mercado Forex opera 24 horas por dia, cinco dias por semana, movimentando trilhões de dólares por dia. É o maior e mais líquido de todos os mercados financeiros."
+    },
+
+    "FaqArea":{
+
+        "Perguntas Frequentes" : "Perguntas Frequentes", 
+
+        "Preciso instalar algum software?" : "Preciso instalar algum software?",
+
+        "Na Prophecy, nos orgulhamos" : "Na Prophecy, nos orgulhamos de proporcionar uma experiência de software sem complicações. Queremos informar que você não precisa fazer o download de nossa aplicação para utilizar o nosso software. A nossa plataforma web garante acesso instantâneo, sem a necessidade de instalações ou atualizações. Funciona perfeitamente em todos os dispositivos desktop, oferece segurança aprimorada e poupa dinheiro em custos de instalação e manutenção. Para começar, basta visitar o nosso site e fazer login. É tão simples! Experimente a conveniência do nosso software sem precisar de fazer qualquer download. Se tiver alguma dúvida ou precisar de assistência, a nossa equipe de suporte está aqui para te ajudar.",
+
+        "É necessário instalar o MetaTrader 5?" : "É necessário instalar o MetaTrader 5?",
+
+        "Para utilizar os nossos serviços" : "Para utilizar os nossos serviços, é essencial ter o MetaTrader 5 instalado no seu dispositivo. Este software é crucial para acessar e desfrutar de todas as funcionalidades que oferecemos. Certifique-se de ter o MetaTrader 5 instalado antes de começar a usar os nossos serviços.",
+
+        "É possível começar a investir com qualquer valor?" : "É possível começar a investir com qualquer valor?",
+
+        "No cenário financeiro atual" : "No cenário financeiro atual, é importante saber que pode começar a sua jornada de investimento com qualquer valor. Na Prophecy, acreditamos em tornar o investimento acessível a todos, independentemente do capital inicial. Com a nossa plataforma, não há requisitos mínimos de investimento. Independente de ter ou não uma grande quantia, você pode começar a investir e construir o seu futuro financeiro. A nossa interface fácil uso e as diversas opções de investimento garantem que você possa adaptar a sua estratégia de investimento às suas metas e orçamento individuais. Não deixe que a ideia errada de que investir requer muito dinheiro o impeça de dar os seus primeiros passos em direção ao crescimento financeiro. Junte-se a nós na Prophecy e descubra o quão fácil é começar a investir com qualquer valor que seja do seu conforto. A sua jornada financeira começa aqui.",
+
+        "Por que trabalhamos com Forex na Prophecy?" : "Por que trabalhamos com Forex na Prophecy?",
+
+        "Na Prophecy, a nossa escolha de trabalhar com Forex" : "Na Prophecy, a nossa escolha de trabalhar com Forex é impulsionada pelas suas características e oportunidades únicas. O Forex se destaca pela sua alta liquidez, acessibilidade 24 horas por dia, base de participantes diversificada e potencial para os traders gerirem o risco de forma eficaz. O alcance global do mercado Forex, os avanços tecnológicos e a transparência estão alinhados com o nosso compromisso de oferecer um ambiente de negociação seguro e educacional. Acreditamos que os atributos do Forex o tornam uma plataforma ideal para os traders perseguirem os seus objetivos financeiros, e estamos aqui para apoiar e orientar a sua jornada. Junte-se a nós na Prophecy e explore o mundo da negociação Forex e as suas possibilidades.",
+
+        "Você deseja começar a usar nosso software?" : "Você deseja começar a usar nosso software?",
+
+        "Para começar a usar o nosso software" : "Para começar a usar o nosso software, basta registar-se no nosso site. A criação de uma conta é um processo rápido e fácil, é o primeiro passo para acessar todas as funcionalidades que oferecemos. Não perca os benefícios do nosso software - inscreva-se hoje mesmo e desbloqueie um mundo de possibilidades."
+    },
+
+    "TeamArea" : {
+        "Nosso time" : "Nosso time",
+
+        "A Liderança" : "A Liderança",
+
+        "Diretor Executivo" : "Diretor Executivo",
+
+        "Diretor Técnico" : "Diretor Técnico",
+
+        "Diretor Financeiro" : "Diretor Financeiro",
+
+        "Diretora Jurídica" : "Diretora Jurídica"
+    },
+
+    "FooterComponent":{
+        "Blessed&copy© 2023. todos os Direitos Reservados" : "Blessed&copy© 2023. todos os Direitos Reservados",
+
+        "Rolar para o topo" : "Rolar para o topo",
+
+        "Termos de Serviço" : "Termos de Serviço",
+
+        "Política de Privacidade" : "Política de Privacidade"
+    }
+     
+}
+}
