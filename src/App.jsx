@@ -2,6 +2,7 @@
 import {BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import InitialPage from './routes/Initial.jsx';
 import { Helmet } from 'react-helmet';
+import SlidePage from './routes/slide.jsx';
 
 
 
@@ -16,7 +17,8 @@ function App() {
         <meta name='keywords' content='forex,westernpips,software,trade' />
       </Helmet>
     <Routes>
-      <Route exact path='/' element={<InitialPage></InitialPage>}></Route>
+      <Route exact path='/' element={<InitialPage/>}/>
+      <Route exact path='/slide' element={<SlidePage/>}/>
     </Routes>
   </Router>
   );
